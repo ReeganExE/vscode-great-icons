@@ -3,3 +3,5 @@ app
 .vscode-test/**
 npm-debug.log
 package-lock.json
+.DS_Store
+*.vsix

@@ -1,6 +1,11 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
+		"tsconfigjson": { "iconPath": "./icons/tsconfig.svg" },
+		"typescript-red": { "iconPath": "./icons/typescript-red.svg" },
+		"_f_dev_env": { "iconPath": "./icons/devenv.svg" },
+		"_f_sh_dev_sh": { "iconPath": "./icons/dev.svg" },
+		"_f_sh_deploy_sh": { "iconPath": "./icons/jenkins.svg" },
 		"_file": { "iconPath": "./icons/file.png" },
 		"_fd_default": { "iconPath": "./icons/folders/default.svg" },
 		"_fd_default-open": { "iconPath": "./icons/folders/default-open.svg" },
@@ -902,6 +907,11 @@
 		"jenkinsfile": "_f_jenkinsfile"
 	},
 	"fileNames": {
+		"tsconfig.json": "tsconfigjson",
+		"main.ts": "typescript-red",
+		"dev.env": "_f_dev_env",
+		"dev.sh": "_f_sh_dev_sh",
+		"deploy.sh": "_f_sh_deploy_sh",
 		"androidmanifest.xml": "_f_android",
 		"bower.json": "_f_bower",
 		"brunch-config.js": "_f_brunch",
@@ -966,7 +976,6 @@
 		"settings.json": "_f_visualstudiocode",
 		"tasks.json": "_f_visualstudiocode",
 		"jsconfig.json": "_f_json",
-		"tsconfig.json": "_f_json",
 		"vite.config.js": "_f_vitejs",
 		"vite.config.ts": "_f_vitejs",
 		"vite.config.cjs": "_f_vitejs",
