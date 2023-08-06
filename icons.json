@@ -1,6 +1,7 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
+		"middleware": { "iconPath": "./icons/middleware.svg" },
 		"tsconfigjson": { "iconPath": "./icons/tsconfig.svg" },
 		"typescript-red": { "iconPath": "./icons/typescript-red.svg" },
 		"_f_dev_env": { "iconPath": "./icons/devenv.svg" },
@@ -907,6 +908,7 @@
 		"jenkinsfile": "_f_jenkinsfile"
 	},
 	"fileNames": {
+		"middleware.ts": "middleware",
 		"tsconfig.json": "tsconfigjson",
 		"main.ts": "typescript-red",
 		"dev.env": "_f_dev_env",
