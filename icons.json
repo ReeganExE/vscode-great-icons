@@ -1,7 +1,7 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
-		"_f_sh_deploy_sh": { "iconPath": "./icons/shell2.svg" },
+		"_f_sh_deploy_sh": { "iconPath": "./icons/shell_deploy.svg" },
 		"_f_shell": { "iconPath": "./icons/shell.svg" },
 		"middleware": { "iconPath": "./icons/middleware.svg" },
 		"tsconfigjson": { "iconPath": "./icons/tsconfig.svg" },
