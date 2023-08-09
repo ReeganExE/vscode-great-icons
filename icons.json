@@ -1,6 +1,7 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
+		"typescript_def": { "iconPath": "./icons/typescript2.svg" },
 		"_f_sh_deploy_sh": { "iconPath": "./icons/shell_deploy.svg" },
 		"_f_shell": { "iconPath": "./icons/shell.svg" },
 		"middleware": { "iconPath": "./icons/middleware.svg" },
@@ -382,6 +383,7 @@
 		"views": "_fd_views-open"
 	},
 	"fileExtensions": {
+		"d.ts": "typescript_def",
 		"ai": "_f_illustrator",
 		"as": "_f_actionscript",
 		"au3": "_f_autoit",
