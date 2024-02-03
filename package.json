@@ -9,6 +9,7 @@
 	},
 	"scripts": {
 		"publish": "vsce publish",
+		"package": "vsce package",
 		"patch": "vsce publish patch"
 	},
 	"categories": [
